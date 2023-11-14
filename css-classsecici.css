@@ -1,0 +1,12 @@
+.color-blue{
+    color: red;
+}
+.text-bold{
+    font-weight: bold;
+}
+.color-blue.text-bold{
+    color: blue;
+}
+p.color-blue.text-bold#paragraf2{
+    color: purple;
+}
